@@ -1,2 +1,2 @@
 # delta-demo
-This is my first delta repository
+This is my first delta repository.
